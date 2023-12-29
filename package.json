@@ -1,0 +1,25 @@
+{
+  "name": "bobx-autofit",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobxc/Vue-Autofit.git"
+  },
+  "keywords": [
+    "vue3",
+    "大屏",
+    "自适应",
+    "css缩放"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobxc/Vue-Autofit/issues"
+  },
+  "homepage": "https://github.com/Bobxc/Vue-Autofit#readme",
+  "dependencies": {
+    "vue": "^3.3.13"
+  }
+}
